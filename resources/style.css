@@ -1,0 +1,75 @@
+header {
+    background-color: black;
+    color:white;
+    right: 3%;
+
+
+    top: 1%;
+    width: 100%;
+    
+
+}
+.titles{
+    padding:50px ;
+}
+h1{ 
+    
+    font-size: 50px;
+
+}
+h3 {
+    font-style: italic;
+    color: gray;
+}
+body{
+
+    font-size: 25px;
+    line-height: 2 ;
+}
+article{
+
+
+    margin-left: 50px;
+
+
+
+}
+
+.right {
+
+    float:right;
+    width: 50%;
+    right:20px;
+    position: relative;
+
+
+}
+.left{
+    left:20px;
+    width:45%;
+    position: relative;
+    
+}
+
+
+#logo {
+ position: absolute;
+top: 2%;
+right: 5%;
+
+}
+
+
+  footer{
+    background-color: black;
+    color:white;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 2500px;
+    text-align: center;
+  }
+
+  a {
+      color: teal;
+  }
